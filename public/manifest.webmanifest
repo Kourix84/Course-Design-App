@@ -1,0 +1,18 @@
+{
+  "name": "Course Design App",
+  "short_name": "CourseDesign",
+  "description": "Offline-first showjumping course generator and editor",
+  "theme_color": "#0f172a",
+  "background_color": "#f1f5f9",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
